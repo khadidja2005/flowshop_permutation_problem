@@ -20,3 +20,5 @@ to predict optimal job sequences that minimize the **makespan**.
 - Trains using **supervised learning** and optimizes using **CrossEntropyLoss**.
 - Supports **variable job and machine configurations**.
 - Provides **evaluation results** with predicted sequences and makespan.
+
+![GraphIL Model](images/image2.png)
